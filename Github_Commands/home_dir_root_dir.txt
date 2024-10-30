@@ -1,0 +1,1 @@
+Home directory is for a specific user, while Root directory is for the root user, or administrator.
