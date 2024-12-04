@@ -1,9 +1,3 @@
-/*Create the database*/ 
-CREATE TABLE IF NOT EXISTS Tech4Girls_DB;
-SHOW DATABASES;
-USE Tech4Girls_DB;
-
-
 /* creating a table called user */
 CREATE TABLE IF NOT EXISTS User (
     id Primary Key Auto,
